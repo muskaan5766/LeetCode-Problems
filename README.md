@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
@@ -38,6 +39,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -50,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -59,4 +62,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 <!---LeetCode Topics End-->

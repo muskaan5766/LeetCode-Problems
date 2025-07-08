@@ -68,6 +68,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Dynamic Programming
 |  |
@@ -80,9 +81,14 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [1552-build-an-array-with-stack-operations](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 ## String
 |  |
 | ------- |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

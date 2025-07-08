@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -71,6 +72,7 @@
 | [0225-implement-stack-using-queues](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Dynamic Programming
 |  |
@@ -95,8 +97,10 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 ## Linked List
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->

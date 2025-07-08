@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -44,6 +45,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -66,4 +69,8 @@
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->

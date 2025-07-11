@@ -10,6 +10,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |

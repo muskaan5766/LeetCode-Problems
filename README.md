@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

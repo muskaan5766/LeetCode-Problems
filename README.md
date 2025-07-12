@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -91,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Heap (Priority Queue)
 |  |

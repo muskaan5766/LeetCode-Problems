@@ -127,6 +127,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 ## Enumeration

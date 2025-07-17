@@ -127,6 +127,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
@@ -141,5 +142,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->

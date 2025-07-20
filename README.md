@@ -38,6 +38,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -49,6 +50,7 @@
 | [0073-set-matrix-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Counting
 |  |
@@ -118,6 +120,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3396-valid-word) |
 ## Queue
 |  |
@@ -150,4 +153,12 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->

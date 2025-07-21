@@ -120,6 +120,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3396-valid-word) |
 ## Queue

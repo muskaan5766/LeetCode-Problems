@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -41,6 +42,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
@@ -151,6 +153,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

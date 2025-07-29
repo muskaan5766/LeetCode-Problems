@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0061-rotate-list) |
+| [0344-reverse-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Number Theory
 |  |

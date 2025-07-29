@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |

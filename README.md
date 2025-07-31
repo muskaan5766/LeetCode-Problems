@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -35,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Heap (Priority Queue)

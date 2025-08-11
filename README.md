@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,6 +190,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |

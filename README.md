@@ -40,6 +40,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -195,6 +196,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Number Theory

@@ -44,6 +44,7 @@
 | [0189-rotate-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |

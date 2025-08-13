@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -40,6 +42,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0860-design-circular-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0860-design-circular-queue) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -83,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -110,6 +115,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |

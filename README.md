@@ -6,6 +6,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0935-orderly-queue](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0935-orderly-queue) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0136-single-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muskaan5766/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -24,6 +26,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/muskaan5766/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/muskaan5766/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
